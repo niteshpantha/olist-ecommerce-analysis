@@ -1,0 +1,9 @@
+# Ignore raw data files - too large for GitHub
+*.csv
+
+# Ignore Power BI cache files
+*.pbix.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
