@@ -22,6 +22,8 @@ olist-ecommerce-analysis/
 ├── powerbi/
 │   ├── olist_dashboard.pbix       # Power BI dashboard file
 │   └── screenshots/               # Dashboard page screenshots
+│   └── dax_measures.md            # Dax Measures
+
 ├── docs/
 │   ├── ERD.png                    # Entity Relationship Diagram
 │   └── data_dictionary.md         # Column-level data documentation
